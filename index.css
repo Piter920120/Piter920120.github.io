@@ -1,0 +1,27 @@
+
+
+.container {
+    background-color:blanchedalmond;
+    height: auto;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+
+    
+}
+.img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 100%;
+}
+
+.fig {
+    justify-content: center;  
+    display: flex;  
+}
+
+.skills {
+    justify-content: center;
+    display: flex;
+}
